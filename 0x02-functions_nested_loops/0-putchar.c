@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
  * main - print _putchar
- * ALX project
+ * is written by Adetutu
  * Return: 0
  */
 
